@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="txv_singIn">Sing In</string>
+    <string name="txv_user">User name/email</string>
+    <string name="txv_password">Password</string>
+    <string name="cb_remember">Remember</string>
+    <string name="txv_signup"><u>Sign Up</u></string>
+    <string name="txvName">Name</string>
+    <string name="txvDescription">Description</string>
+    <string name="txvCreationDate">Creation date</string>
+    <string name="btnChangeState">Change State</string>
+    <string name="product_name">Name:</string>
+    <string name="product_seller">Seller:</string>
+    <string name="product_model">Model:</string>
+    <string name="product_category">Category:</string>
+    <string name="product_subcategory">Subcategory:</string>
+    <string name="product_type">Type:</string>
+    <string name="product_description">Description:</string>
+    <string name="product_price">Price:</string>
+    <string name="product_date">D. purchase:</string>
+    <string name="product_notes">Notes:</string>
+    <string name="txv_sectorDefault">default sector</string>
+    <string name="action_save">Save</string>
+    <string name="pref_category_general">General preferences</string>
+    <string name="pref_title_showIcon">Show Image</string>
+</resources>

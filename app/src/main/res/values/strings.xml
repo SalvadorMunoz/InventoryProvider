@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">InventoryFragment</string>
+    <string name="txv_singIn">Acceder</string>
+    <string name="txv_user">Nombre usuario/email</string>
+    <string name="txv_password">Contraseña</string>
+    <string name="cb_remember">Recordar</string>
+    <string name="txv_signup"><u>Registrarse</u></string>
+    <string name="btn_googleSignIn" translatable="false">Google</string>
+    <string name="btn_facebookSignIn" translatable="false">"    Facebook"</string>
+    <string name="txvName">Nombre</string>
+    <string name="txvDescription">Descripción</string>
+    <string name="txvCreationDate">Fecha de creación</string>
+    <string name="btnChangeState">Cambiar Estado</string>
+    <string name="product_name">Nombre:</string>
+    <string name="product_serial" translatable="false">Serial:</string>
+    <string name="product_seller">Vendedor:</string>
+    <string name="product_model">Modelo:</string>
+    <string name="product_category">Categoría:</string>
+    <string name="product_subcategory">Subcategoría:</string>
+    <string name="product_type">Tipo:</string>
+    <string name="product_description">Descripción:</string>
+    <string name="product_price">Precio:</string>
+    <string name="product_date">F. compra:</string>
+    <string name="product_url" translatable="false">Url:</string>
+    <string name="product_notes">Notas:</string>
+    <string name="txv_sectorDefault">Sector por defecto</string>
+
+    <string name="action_save">Guardar</string>
+    <string name="action_save_dependency">Guardar Dependencia</string>
+    <string name="action_general_setting">Ajustes Generales</string>
+    <string name="action_account_setting">Ajustes de Cuenta</string>
+    <string name="edt_dependencyName">Escribe el nombre</string>
+    <string name="edt_dependencySortname">Escriba el nombre corto</string>
+    <string name="edt_dependencyDescription">Escriba descripción</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="errorDependencyNameEmptyError">Nombre vacío.</string>
+    <string name="errorDependencySortNameEmptyError">Nombre corto vacío.</string>
+    <string name="errorDependencySortNameLengthError">Tamaño entre 2 y 5</string>
+    <string name="errorDependencyDescriptionEmptyError">Descripción vacío.</string>
+    <string name="fragment_listdependency_delete">Eliminar Dependencia</string>
+    <string name="btnOk">OK</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="action_sortbyname">Ordenar por nombre</string>
+    <string name="action_sortbyid">Ordenar por ID</string>
+    <string name="add_dependency_error">Error al añadir dependencia</string>
+    <string name="edit_dependency_error">Error al editar dependencia</string>
+    <string name="delete_dependency_error">Error al eliminar la dependencia</string>
+    <string name="txv_idDependency">Dependencia:</string>
+    <string name="txv_isEnable">Disponibilidad:</string>
+    <string name="txv_isDefault">Sector por defecto:</string>
+    <string name="error_sectorNameEmpty">Nombre vacío</string>
+    <string name="error_sectorSortnameEmpty">Nombre corto vacío</string>
+    <string name="error_sectorDescriptionEmpty">Descripción vacía</string>
+    <string name="error_sectorExists">El sector ya existe.</string>
+    <string name="sp_isEnable_true">Está disponible</string>
+    <string name="sp_isEnable_false">No está disponible</string>
+    <string name="sp_isDefault_true">Es por defecto</string>
+    <string name="sp_isDefault_false">No es por defecto</string>
+</resources>

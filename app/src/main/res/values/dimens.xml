@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lly_login_padding">32dp</dimen>
+    <dimen name="txv_singIn_margin">24dp</dimen>
+    <dimen name="btn_singIn">64dp</dimen>
+    <dimen name="lly_signInOptions">8dp</dimen>
+    <dimen name="btn_google">8dp</dimen>
+    <dimen name="btn_singInWidth">200dp</dimen>
+    <dimen name="imgDashboardWidth">0dp</dimen>
+    <dimen name="imgDashboardHeight">0dp</dimen>
+    <dimen name="letter_icon_size">48dp</dimen>
+    <dimen name="letter_icon_padding_top">8dp</dimen>
+    <dimen name="list_primary_text">16dp</dimen>
+    <dimen name="list_secondary_text">14dp</dimen>
+    <dimen name="margin_fab">16dp</dimen>
+</resources>
